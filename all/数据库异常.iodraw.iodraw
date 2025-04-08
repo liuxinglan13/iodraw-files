@@ -4,10 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="obwesP7FSSnz9x9t_JIb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="obwesP7FSSnz9x9t_JIb-1" target="obwesP7FSSnz9x9t_JIb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-1" value="数据库异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="obwesP7FSSnz9x9t_JIb-3" value="确认故障现象及影响范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="obwesP7FSSnz9x9t_JIb-3" value="确认故障现象&lt;div&gt;及影响范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
