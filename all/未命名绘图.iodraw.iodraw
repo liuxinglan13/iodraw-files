@@ -33,13 +33,16 @@
         <mxCell id="ascVBtggK5Wx7Vu6kGlb-5" value="UPS 异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ascVBtggK5Wx7Vu6kGlb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ascVBtggK5Wx7Vu6kGlb-8" target="ascVBtggK5Wx7Vu6kGlb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ascVBtggK5Wx7Vu6kGlb-8" value="检查 UPS 状态&lt;div&gt;剩余电量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ascVBtggK5Wx7Vu6kGlb-10" value="检查 UPS 状态&lt;div&gt;与市电情况&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ascVBtggK5Wx7Vu6kGlb-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ascVBtggK5Wx7Vu6kGlb-12" value="启用备用电源&lt;div&gt;（发电机）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
