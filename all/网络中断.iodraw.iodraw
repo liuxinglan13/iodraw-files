@@ -48,11 +48,14 @@
         <mxCell id="zA8A8Bbb4q9i89Io3_1j-13" value="重启网络核心设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zA8A8Bbb4q9i89Io3_1j-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zA8A8Bbb4q9i89Io3_1j-15" target="zA8A8Bbb4q9i89Io3_1j-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zA8A8Bbb4q9i89Io3_1j-15" value="宽带报修&lt;div&gt;通知运营商跟进&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zA8A8Bbb4q9i89Io3_1j-17" value="是否恢复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="920" y="350" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
