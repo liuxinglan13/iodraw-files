@@ -59,7 +59,7 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-13" value="数据库是否恢复访问" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="260" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="obwesP7FSSnz9x9t_JIb-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="obwesP7FSSnz9x9t_JIb-17" value="修复宕机节点&lt;div&gt;或重建集群&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
