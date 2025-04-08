@@ -56,7 +56,7 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-13" value="切换备用系统&lt;div&gt;使用备份数据恢复&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvbzDvv5n76MrW4mRyT_-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-16" value="使用备份恢复被感染的主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
