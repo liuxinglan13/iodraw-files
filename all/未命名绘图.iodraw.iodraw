@@ -59,6 +59,9 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-16" value="使用备份恢复被感染的主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
