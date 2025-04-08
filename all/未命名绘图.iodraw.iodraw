@@ -33,8 +33,11 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-6" value="评估是否对业务造成影响" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="265" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="启动应急预案程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
