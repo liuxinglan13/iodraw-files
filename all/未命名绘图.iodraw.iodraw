@@ -14,7 +14,7 @@
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MYTNMptPa5dP2iuUK7S-4" value="是否为关键服务？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="86" height="80" as="geometry" />
+          <mxGeometry x="380" y="290" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
