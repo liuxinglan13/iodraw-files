@@ -19,6 +19,9 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-3" value="确认故障现象&lt;div&gt;及影响范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="obwesP7FSSnz9x9t_JIb-5" target="obwesP7FSSnz9x9t_JIb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-5" value="数据库宕机&lt;div&gt;无法访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-9" value="切换冷/热备节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
