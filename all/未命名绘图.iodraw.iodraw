@@ -30,6 +30,9 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-6" value="按照常规流程处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
