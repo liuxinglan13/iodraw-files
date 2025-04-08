@@ -27,7 +27,7 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8MYTNMptPa5dP2iuUK7S-4" target="8MYTNMptPa5dP2iuUK7S-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8MYTNMptPa5dP2iuUK7S-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8MYTNMptPa5dP2iuUK7S-10">
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8MYTNMptPa5dP2iuUK7S-10">
           <mxGeometry x="0.12" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -38,7 +38,7 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-6" value="按照常规流程处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8MYTNMptPa5dP2iuUK7S-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-9" value="立即通知管理层和相关团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
