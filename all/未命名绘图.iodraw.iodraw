@@ -10,11 +10,17 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-1" value="问题发现/系统报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MYTNMptPa5dP2iuUK7S-2" target="8MYTNMptPa5dP2iuUK7S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8MYTNMptPa5dP2iuUK7S-2" value="初步评估影响范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8MYTNMptPa5dP2iuUK7S-4" value="是否为关键服务？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="120" height="90" as="geometry" />
+          <mxGeometry x="400" y="285" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
