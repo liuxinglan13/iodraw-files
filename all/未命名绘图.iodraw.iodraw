@@ -36,7 +36,7 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-8" target="SvbzDvv5n76MrW4mRyT_-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="启动应急预案程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="通知管理层及相关团队人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-11" value="通知管理层及相关团队人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
