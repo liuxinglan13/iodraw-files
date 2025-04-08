@@ -53,11 +53,17 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-11" value="启动应急预案程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-13" target="SvbzDvv5n76MrW4mRyT_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-13" value="切换备用系统&lt;div&gt;使用备份数据恢复&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-16" value="使用备份恢复被感染的主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-19" target="SvbzDvv5n76MrW4mRyT_-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-19" value="是否恢复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="410" width="80" height="80" as="geometry" />
