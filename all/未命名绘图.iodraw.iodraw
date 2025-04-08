@@ -48,7 +48,7 @@
         <mxCell id="ascVBtggK5Wx7Vu6kGlb-12" value="启用备用电源&lt;div&gt;（发电机）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ascVBtggK5Wx7Vu6kGlb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ascVBtggK5Wx7Vu6kGlb-14" value="关闭非核心应用&lt;div&gt;降低 UPS 负载&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
