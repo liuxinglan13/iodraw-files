@@ -37,7 +37,7 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-11" value="使用备份数据进行还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="obwesP7FSSnz9x9t_JIb-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="obwesP7FSSnz9x9t_JIb-13" value="数据库是否恢复访问" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
