@@ -80,6 +80,9 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-22" value="数据完整性验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="obwesP7FSSnz9x9t_JIb-24" target="obwesP7FSSnz9x9t_JIb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-24" value="数据库恢复正常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="340" width="120" height="60" as="geometry" />
         </mxCell>
