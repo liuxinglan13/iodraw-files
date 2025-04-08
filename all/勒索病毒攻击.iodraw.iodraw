@@ -1,0 +1,106 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="5SAwzkfjOYdcmiKdbpcl">
+    <mxGraphModel dx="1387" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-1" target="SvbzDvv5n76MrW4mRyT_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-1" value="检测到勒索病毒攻击" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-2" target="SvbzDvv5n76MrW4mRyT_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-2" value="立即断开感染主机的网络连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-4" target="SvbzDvv5n76MrW4mRyT_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-4" value="评估病毒传播范围，启用隔离机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-6" target="SvbzDvv5n76MrW4mRyT_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SvbzDvv5n76MrW4mRyT_-9">
+          <mxGeometry x="0.04" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-6" target="SvbzDvv5n76MrW4mRyT_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SvbzDvv5n76MrW4mRyT_-17">
+          <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-6" value="评估是否对业务造成影响" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="265" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-8" target="SvbzDvv5n76MrW4mRyT_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="通知管理层及相关团队人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-11" target="SvbzDvv5n76MrW4mRyT_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-11" value="启动应急预案程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-13" target="SvbzDvv5n76MrW4mRyT_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-13" value="切换备用系统&lt;div&gt;使用备份数据恢复&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-16" target="SvbzDvv5n76MrW4mRyT_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-16" value="使用备份恢复被感染的主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-19" target="SvbzDvv5n76MrW4mRyT_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="450" />
+              <mxPoint x="1290" y="270" />
+              <mxPoint x="850" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SvbzDvv5n76MrW4mRyT_-21">
+          <mxGeometry x="-0.5912" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-19" target="SvbzDvv5n76MrW4mRyT_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-19" value="是否恢复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-23" target="SvbzDvv5n76MrW4mRyT_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-23" value="系统功能验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-25" target="SvbzDvv5n76MrW4mRyT_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-25" value="业务恢复正常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-29" value="编写故障报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
