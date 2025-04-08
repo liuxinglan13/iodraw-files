@@ -59,6 +59,9 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-16" value="执行恢复措施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MYTNMptPa5dP2iuUK7S-18" target="8MYTNMptPa5dP2iuUK7S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8MYTNMptPa5dP2iuUK7S-18" value="服务是否修复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="405" width="100" height="90" as="geometry" />
         </mxCell>
