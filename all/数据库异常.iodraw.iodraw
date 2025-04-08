@@ -19,7 +19,7 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-5" value="数据库宕机&lt;div&gt;无法访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="obwesP7FSSnz9x9t_JIb-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="obwesP7FSSnz9x9t_JIb-7" value="数据错误或丢失" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
