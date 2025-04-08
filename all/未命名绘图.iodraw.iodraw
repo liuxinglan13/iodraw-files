@@ -63,6 +63,9 @@
         <mxCell id="ascVBtggK5Wx7Vu6kGlb-18" value="确认市电中断原因与恢复时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ascVBtggK5Wx7Vu6kGlb-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
