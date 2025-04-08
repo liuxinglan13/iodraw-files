@@ -85,6 +85,9 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-23" value="系统功能验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
