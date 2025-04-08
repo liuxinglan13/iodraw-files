@@ -7,7 +7,7 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-1" value="检测到勒索病毒攻击" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvbzDvv5n76MrW4mRyT_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-2" value="立即断开感染主机的网络连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
