@@ -74,6 +74,9 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-20" value="手动修复错误数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="obwesP7FSSnz9x9t_JIb-22" target="obwesP7FSSnz9x9t_JIb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-22" value="数据完整性验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="390" width="120" height="60" as="geometry" />
         </mxCell>
