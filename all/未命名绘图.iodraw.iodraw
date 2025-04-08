@@ -76,10 +76,13 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-19" target="SvbzDvv5n76MrW4mRyT_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-19" value="是否恢复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SvbzDvv5n76MrW4mRyT_-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-23" value="系统功能验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
