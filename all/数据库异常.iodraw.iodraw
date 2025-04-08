@@ -25,6 +25,9 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-5" value="数据库宕机&lt;div&gt;无法访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="obwesP7FSSnz9x9t_JIb-7" target="obwesP7FSSnz9x9t_JIb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-7" value="数据错误或丢失" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="obwesP7FSSnz9x9t_JIb-11" value="使用备份数据进行还原" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
