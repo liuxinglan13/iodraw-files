@@ -68,6 +68,9 @@
         <mxCell id="obwesP7FSSnz9x9t_JIb-20" value="手动修复错误数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="obwesP7FSSnz9x9t_JIb-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
