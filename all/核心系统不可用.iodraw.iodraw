@@ -59,7 +59,7 @@
         <mxCell id="8MYTNMptPa5dP2iuUK7S-16" value="执行恢复措施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8MYTNMptPa5dP2iuUK7S-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8MYTNMptPa5dP2iuUK7S-18" value="服务是否修复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
