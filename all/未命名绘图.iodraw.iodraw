@@ -30,6 +30,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-6" target="SvbzDvv5n76MrW4mRyT_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SvbzDvv5n76MrW4mRyT_-17">
+          <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-6" value="评估是否对业务造成影响" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="265" width="150" height="110" as="geometry" />
         </mxCell>
