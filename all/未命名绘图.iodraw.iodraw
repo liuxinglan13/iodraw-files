@@ -39,11 +39,14 @@
         <mxCell id="SvbzDvv5n76MrW4mRyT_-8" value="通知管理层及相关团队人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SvbzDvv5n76MrW4mRyT_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvbzDvv5n76MrW4mRyT_-11" target="SvbzDvv5n76MrW4mRyT_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-11" value="启动应急预案程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SvbzDvv5n76MrW4mRyT_-13" value="切换备用系统&lt;div&gt;使用备份数据恢复&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
