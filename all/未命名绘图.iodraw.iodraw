@@ -74,11 +74,11 @@
         <mxCell id="1zvWjhibCXyQxkb25JIJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-24" target="1zvWjhibCXyQxkb25JIJ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1zvWjhibCXyQxkb25JIJ-24" value="k8s-pro-ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-24" value="k8s-pro-ingress&lt;div&gt;95.100：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1zvWjhibCXyQxkb25JIJ-25" value="&lt;a data-v-95ab40f0=&quot;&quot; href=&quot;https://172.16.85.21/dashboard/c/c-m-mlx2d824/explorer/service/rokin-framework-pro/rokin-rokinfw-web-microapp-main&quot; class=&quot;&quot; style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot;&gt;rokin-rokinfw-web-microapp-main&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="585" width="125" height="55" as="geometry" />
+          <mxGeometry x="812.5" y="585" width="125" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1zvWjhibCXyQxkb25JIJ-26" value="&lt;a data-v-95ab40f0=&quot;&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://gateway.rokin.cn/&quot; style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot;&gt;https://gateway.rokin.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="590" width="210" height="60" as="geometry" />
