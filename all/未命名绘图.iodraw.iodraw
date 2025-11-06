@@ -10,10 +10,13 @@
         <mxCell id="1zvWjhibCXyQxkb25JIJ-1" value="erp.rokin.cn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-2" target="1zvWjhibCXyQxkb25JIJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1zvWjhibCXyQxkb25JIJ-2" value="k8s-pro-ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1zvWjhibCXyQxkb25JIJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-4" value="&lt;a style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot; class=&quot;&quot; href=&quot;https://172.16.85.21/dashboard/c/c-m-mlx2d824/explorer/service/rokin-framework-pro/rokin-rokinfw-web-microapp-main&quot; data-v-95ab40f0=&quot;&quot;&gt;rokin-rokinfw-web-microapp-main&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
