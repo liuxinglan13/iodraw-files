@@ -1,0 +1,89 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="sxwq6U3qTeom9e9GK4gQ">
+    <mxGraphModel dx="1434" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-17" value="老 PRO" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="520" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-1" target="1zvWjhibCXyQxkb25JIJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-1" value="erp.rokin.cn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-2" target="1zvWjhibCXyQxkb25JIJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-2" target="1zvWjhibCXyQxkb25JIJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-2" value="k8s-pro-ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-4" value="&lt;a style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot; class=&quot;&quot; href=&quot;https://172.16.85.21/dashboard/c/c-m-mlx2d824/explorer/service/rokin-framework-pro/rokin-rokinfw-web-microapp-main&quot; data-v-95ab40f0=&quot;&quot;&gt;rokin-rokinfw-web-microapp-main&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-6" value="&lt;a style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot; href=&quot;https://gateway.rokin.cn/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot; data-v-95ab40f0=&quot;&quot;&gt;https://gateway.rokin.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="590" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-8" target="1zvWjhibCXyQxkb25JIJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-8" target="1zvWjhibCXyQxkb25JIJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-8" value="F5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-11" target="1zvWjhibCXyQxkb25JIJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-11" value="app-api.rokin.cn/tms-warehouse/*&amp;nbsp;&lt;div&gt;新系统-仓库APP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-13" target="1zvWjhibCXyQxkb25JIJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="240" />
+              <mxPoint x="280" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-13" value="apisix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-21" value="Daocloud-PRO" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="520" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-24" target="1zvWjhibCXyQxkb25JIJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zvWjhibCXyQxkb25JIJ-24" target="1zvWjhibCXyQxkb25JIJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-24" value="k8s-pro-ingress&lt;div&gt;95.100：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-25" value="&lt;a data-v-95ab40f0=&quot;&quot; href=&quot;https://172.16.85.21/dashboard/c/c-m-mlx2d824/explorer/service/rokin-framework-pro/rokin-rokinfw-web-microapp-main&quot; class=&quot;&quot; style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot;&gt;rokin-rokinfw-web-microapp-main&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="812.5" y="585" width="125" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1zvWjhibCXyQxkb25JIJ-26" value="&lt;a data-v-95ab40f0=&quot;&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://gateway.rokin.cn/&quot; style=&quot;box-sizing: inherit; background-color: rgba(61, 152, 211, 0.05); color: rgb(61, 152, 211); text-decoration-line: none; font-family: Lato, arial, helvetica, sans-serif; font-size: 14px; text-align: -webkit-left;&quot;&gt;https://gateway.rokin.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="590" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
